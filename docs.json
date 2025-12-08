@@ -410,17 +410,17 @@
     "global": {
     }
   },
-  "favicon": "ConvertalkLogo.png",
+  "favicon": "/logo/Logo.png",
 
   "logo": {
-    "light": "/Logo.png",
-    "dark": "/Logo.png"
+    "light": "/logo/Logo.png",
+    "dark": "/logo/Logo.png"
   },
   "navbar": {
     "links": [
       {
         "label": "Support",
-        "href": "mailto:info@convertalk.com"
+        "href": "mailto:contact@omnifitai.com"
       }
     ],
     "primary": {
