@@ -375,30 +375,7 @@
             ]
           }
         ]
-      },
-       {
-        "tab": "API References",
-        "groups": [
-          {
-            "group": "Contact & Chats APIs",
-            "pages": [
-              "contact-chat/get_all_contact",
-              "contact-chat/getting_group_segment",
-              "contact-chat/add_whatsapp_contact",
-              "contact-chat/delete_whatsapp_contact",
-              "contact-chat/website_data_metadata"
-            ]
-          },
-          {
-            "group": "WhatsApp Cloud API",
-            "pages": [
-              "whatsapp-cloud-api/get_template_list",
-              "whatsapp-cloud-api/whatsapp_template",
-              "whatsapp-cloud-api/post_send_template_message"
-            ]
-          }
-        ]
-      }
+       }
      
     ],
     "global": {
