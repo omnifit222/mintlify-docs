@@ -220,8 +220,7 @@
               "inbox/chats_window",
               "inbox/orders",
               "inbox/contacts",
-              "inbox/groups",
-              "inbox/real_time_customer_interaction"
+              "inbox/groups"
             ]
           },
           {
@@ -285,7 +284,6 @@
               "faqs/chat_flow",
               "faqs/bot_setting",
               "faqs/whatsapp",
-              "faqs/subscription",
               "faqs/product_update",
               "faqs/chatgpt",
               "faqs/common_err_troubleshoot"
