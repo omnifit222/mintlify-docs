@@ -268,7 +268,6 @@
           {
             "group" : "Suscription and Plans",
             "pages" : [
-              "subscription-plan/legacy",
               "subscription-plan/latest"
             ]
           },
